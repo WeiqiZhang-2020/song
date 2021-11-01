@@ -84,9 +84,13 @@
 
 .card{
   box-sizing: border-box;
+  width: 50px;
+  
 
 }
 
 .card > p{
   font-size: 0.5em;
+  word-break: break-all;
+    white-space: normal;
 }
